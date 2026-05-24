@@ -7,11 +7,11 @@ Este projeto permite a remontagem de conversas exportadas do WhatsApp (iOS/iPhon
 - **Interface Moderna:** Desenvolvido em Python com CustomTkinter.
 
 ## Como usar?
-1 - Baixe o arquivo compactado da conversa exportada no seu computador e extraia-o completamente.
-2 - Abra o `WA Chat Reader`.
-3 - Clique no botão **"Procurar Pasta"** e selecione a pasta que contém os arquivos.
-4 - Clique em **"Processar"**. O programa gerará um arquivo `.html` na mesma pasta.
-5 - Abra o arquivo `.html` gerado em qualquer navegador.
+1. Baixe o arquivo compactado da conversa exportada no seu computador e extraia-o completamente.
+2. Abra o `WA Chat Reader`.
+3. Clique no botão **"Procurar Pasta"** e selecione a pasta que contém os arquivos.
+4. Clique em **"Processar"**. O programa gerará um arquivo `.html` na mesma pasta.
+5. Abra o arquivo `.html` gerado em qualquer navegador.
 
 ---
 
